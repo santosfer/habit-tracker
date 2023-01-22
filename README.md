@@ -1,7 +1,7 @@
 # habit-tracker
 Criando um aplicativo com a plataforma <a href=https://www.rocketseat.com.br/ target=blank> rocketseat<a/> para acompanhar hábitos saudáveis.
 
-# Habit Tracker com o NLW setup%
+# Habit Tracker com o NLWSetup
 ![Wallpaper - 1400x900](https://user-images.githubusercontent.com/111258557/213946223-5d9fd6d9-38fd-4537-b48b-ac4cf8554bf2.png)
 
 
